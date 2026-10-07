@@ -1,0 +1,6 @@
+haystack-ai
+openai
+pinecone
+python-dotenv
+pyTelegramBotAPI
+tzdata
